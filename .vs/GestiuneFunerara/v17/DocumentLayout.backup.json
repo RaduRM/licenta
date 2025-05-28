@@ -1,0 +1,682 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\services\\usersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\services\\usersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\verificarecont.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\verificarecont.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\signup.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\signup.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\editprofil.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\editprofil.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\detaliipachet.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\detaliipachet.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\confirmariprecomenzi.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\confirmariprecomenzi.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\admindashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\admindashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\models\\utilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\models\\utilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\models\\usersignupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\models\\usersignupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\models\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\models\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\models\\reportexcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\models\\reportexcelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\models\\rapoarteprecomandum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\models\\rapoarteprecomandum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\models\\confirmaricomandum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\models\\confirmaricomandum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\models\\comenziproduse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\models\\comenziproduse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\images\\logo-1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\images\\logo-1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\css\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\css\\signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\css\\resetpassword.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\css\\resetpassword.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\css\\forgotpassword.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\css\\forgotpassword.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\css\\editprofil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\css\\editprofil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\css\\detaliipachet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\css\\detaliipachet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|c:\\users\\radud\\desktop\\licenta\\gestiunefunerara\\gestiunefunerara\\wwwroot\\css\\confirmariprecomenzi.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{613D902F-7907-42DB-887D-85F52F6655A4}|GestiuneFunerara\\GestiuneFunerara.csproj|solutionrelative:gestiunefunerara\\wwwroot\\css\\confirmariprecomenzi.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Program.cs",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Program.cs",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Program.cs",
+              "RelativeToolTip": "GestiuneFunerara\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:20:57.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\App.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\App.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\App.razor",
+              "RelativeToolTip": "GestiuneFunerara\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:20:55.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\_Imports.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\_Imports.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\_Imports.razor",
+              "RelativeToolTip": "GestiuneFunerara\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:20:54.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Shared\\SurveyPrompt.razor*",
+              "RelativeToolTip": "GestiuneFunerara\\Shared\\SurveyPrompt.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:20:45.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "GestiuneFunerara\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:20:21.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserSessionService.cs",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Services\\UserSessionService.cs",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Services\\UserSessionService.cs",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Services\\UserSessionService.cs",
+              "RelativeToolTip": "GestiuneFunerara\\Services\\UserSessionService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAzwDAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:19:45.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VerificareCont.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\VerificareCont.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\VerificareCont.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\VerificareCont.razor",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\VerificareCont.razor",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:19:40.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Signup.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\Signup.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\Signup.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\Signup.razor",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\Signup.razor",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:19:35.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPassword.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\ResetPassword.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\ResetPassword.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\ResetPassword.razor*",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\ResetPassword.razor*",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAFIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:19:18.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\Login.razor",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\Login.razor",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAF0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:18:48.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\Index.razor",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\Index.razor",
+              "ViewState": "AgIAALsAAAAAAAAAAAAAAGQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:17:59.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotPassword.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\ForgotPassword.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\ForgotPassword.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\ForgotPassword.razor",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\ForgotPassword.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:17:48.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\Error.cshtml",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:17:44.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditProfil.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\EditProfil.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\EditProfil.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\EditProfil.razor*",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\EditProfil.razor*",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:17:22.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetaliiPachet.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\DetaliiPachet.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\DetaliiPachet.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\DetaliiPachet.razor*",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\DetaliiPachet.razor*",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAEkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:16:13.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfirmariPrecomenzi.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\ConfirmariPrecomenzi.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\ConfirmariPrecomenzi.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\ConfirmariPrecomenzi.razor",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\ConfirmariPrecomenzi.razor",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:16:15.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminDashboard.razor",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\AdminDashboard.razor",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\AdminDashboard.razor",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\AdminDashboard.razor",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\AdminDashboard.razor",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAAAKcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:15:20.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:15:19.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "GestiuneFunerara\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:15:18.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Utilizatori.cs",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\Utilizatori.cs",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Models\\Utilizatori.cs",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\Utilizatori.cs",
+              "RelativeToolTip": "GestiuneFunerara\\Models\\Utilizatori.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:15:16.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserSignupModel.cs",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\UserSignupModel.cs",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Models\\UserSignupModel.cs",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\UserSignupModel.cs",
+              "RelativeToolTip": "GestiuneFunerara\\Models\\UserSignupModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:15:15.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\ReportService.cs",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Models\\ReportService.cs",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\ReportService.cs",
+              "RelativeToolTip": "GestiuneFunerara\\Models\\ReportService.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:15:01.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReportExcelService.cs",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\ReportExcelService.cs",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Models\\ReportExcelService.cs",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\ReportExcelService.cs*",
+              "RelativeToolTip": "GestiuneFunerara\\Models\\ReportExcelService.cs*",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwKEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:14:17.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RapoartePrecomandum.cs",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\RapoartePrecomandum.cs",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Models\\RapoartePrecomandum.cs",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\RapoartePrecomandum.cs",
+              "RelativeToolTip": "GestiuneFunerara\\Models\\RapoartePrecomandum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:13:51.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConfirmariComandum.cs",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\ConfirmariComandum.cs",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Models\\ConfirmariComandum.cs",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\ConfirmariComandum.cs",
+              "RelativeToolTip": "GestiuneFunerara\\Models\\ConfirmariComandum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:13:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ComenziProduse.cs",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\ComenziProduse.cs",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Models\\ComenziProduse.cs",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\ComenziProduse.cs",
+              "RelativeToolTip": "GestiuneFunerara\\Models\\ComenziProduse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:13:35.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-28T10:13:31.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "logo-1.png - PNG [367x309, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\images\\logo-1.png",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\images\\logo-1.png",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\images\\logo-1.png - PNG [367x309, 32 bit, PNG]",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\images\\logo-1.png - PNG [367x309, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-28T10:13:29.618Z",
+              "EditorCaption": " - PNG [367x309, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T10:13:26.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "signup.css",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\signup.css",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\css\\signup.css",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\signup.css",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\css\\signup.css",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T10:13:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\Models\\UserLoginModel.cs",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\Models\\UserLoginModel.cs",
+              "RelativeToolTip": "GestiuneFunerara\\Models\\UserLoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:37:31.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "resetpassword.css",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\resetpassword.css",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\css\\resetpassword.css",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\resetpassword.css",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\css\\resetpassword.css",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T10:13:22.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\login.css*",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\css\\login.css*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAF8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T10:13:16.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\index.css*",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\css\\index.css*",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAALkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T10:12:59.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "forgotpassword.css",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\forgotpassword.css",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\css\\forgotpassword.css",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\forgotpassword.css",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\css\\forgotpassword.css",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T10:12:57.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "editprofil.css",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\editprofil.css",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\css\\editprofil.css",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\editprofil.css",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\css\\editprofil.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T10:12:53.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "detaliipachet.css",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\detaliipachet.css",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\css\\detaliipachet.css",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\detaliipachet.css*",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\css\\detaliipachet.css*",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T10:12:39.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dashboard.css",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\dashboard.css",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\css\\dashboard.css",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\dashboard.css*",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\css\\dashboard.css*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T10:12:36.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "confirmariprecomenzi.css",
+              "DocumentMoniker": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\confirmariprecomenzi.css",
+              "RelativeDocumentMoniker": "GestiuneFunerara\\wwwroot\\css\\confirmariprecomenzi.css",
+              "ToolTip": "C:\\Users\\radud\\Desktop\\LICENTA\\GestiuneFunerara\\GestiuneFunerara\\wwwroot\\css\\confirmariprecomenzi.css*",
+              "RelativeToolTip": "GestiuneFunerara\\wwwroot\\css\\confirmariprecomenzi.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-28T10:12:30.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
